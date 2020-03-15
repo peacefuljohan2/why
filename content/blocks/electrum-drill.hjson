@@ -13,9 +13,9 @@ consumes: {
   }
 }
 requirements: [
-  electrum/80
-  silicon/40
-  graphite/20
+  electrum/0
+  silicon/0
+  graphite/0
 ]
 category: production
 research: laser-drill

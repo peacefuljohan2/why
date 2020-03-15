@@ -4,9 +4,6 @@ type: Drill
 size: 3
 tier: 2
 drillTime: 5
-consumes: {
-  }
-}
 requirements: [
   copper/0
 ]

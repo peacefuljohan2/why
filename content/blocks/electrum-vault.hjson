@@ -1,14 +1,14 @@
 name: Electrum Vault
 description: Shocking way of storing items.
 type: Vault
-itemCapacity: 2500
+itemCapacity: 25000000000000000000000000000000000
 hasItems: true
-health: 2000
+health: 200000
 size: 3
 requirements: [
-  electrum/20
-  titanium/60
-  thorium/40
+  electrum/0
+  titanium/0
+  thorium/0
 ]
 category: effect
 research: vault

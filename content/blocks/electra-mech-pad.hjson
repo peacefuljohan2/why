@@ -3,8 +3,6 @@ description: Transform into the Electra mech.
 type: MechPad
 mech: electra-mech
 size: 2
-consumes: {
-}
 category: upgrade
 research: mechanical-drill
 requirements: [

@@ -9,7 +9,7 @@ ammoUseEffect: shellEjectSmall
 inaccuracy: 30
 rotatespeed: 12
 ammo: {
-  silver: {
+  copper: {
     speed: 3
     damage: 300
     bulletWidth: 7

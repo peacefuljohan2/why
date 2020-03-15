@@ -3,7 +3,7 @@ description: A very strange drill.
 type: Drill
 size: 3
 tier: 2
-drillTime: 10
+drillTime: 1
 consumes: {
   power: 0
   liquid: {

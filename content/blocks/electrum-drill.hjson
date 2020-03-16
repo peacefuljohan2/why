@@ -1,8 +1,8 @@
-name: Electrum Drill
-description: A very strange drill.
+name: Alien Drill
+description: Nobody knows where it came from and nobody wants to know.
 type: Drill
-size: 3
-tier: 6
+size: 1
+tier: 8
 drillTime: 5
 requirements: [
   copper/0

@@ -10,13 +10,13 @@ inaccuracy: 30
 rotatespeed: 12
 ammo: {
   copper: {
-    speed: 3
+    speed: 6
     damage: 300
     bulletWidth: 7
     bulletHeight: 9
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    ammoMultiplier: 5
+    ammoMultiplier: 15
   }
 }
 requirements: [
